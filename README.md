@@ -1,1 +1,2 @@
-# samplerepo
+# samplerepo 
+It is sample repo
